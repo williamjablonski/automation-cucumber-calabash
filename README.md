@@ -15,12 +15,18 @@ $ rvm install ruby-2.2.3
 To install all the required dependencies just run ```$ bundle install ``` in the project root folder.
 
 To run the automation on your local you can follow the example below.
+
+1. First, you have to start your device. In this case we are using a GenyMotion Virtual Device.
+![GenyMotion](pic01.png)
+
+2. Then, start the Appium Server. Just remember, the platform version needs to be the same as the device (Android Settings).
+![GenyMotion](pic02.png)
+
+3. Finally, run the automation :)
 ```
 calabash-android run apps/TrianguloApp.apk
 ```
 
 So... you might see something like this:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MkaOGmxhgW0
-" target="_blank"><img src="https://img.youtube.com/vi/MkaOGmxhgW0/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="2" /></a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MkaOGmxhgW0/0.jpg)](https://www.youtube.com/watch?v=MkaOGmxhgW0)
