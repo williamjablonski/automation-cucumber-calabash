@@ -27,6 +27,6 @@ To run the automation on your local you can follow the example below.
 calabash-android run apps/TrianguloApp.apk
 ```
 
-So... you might see something like this:
+So... you might see something like this...click to watch the video on Youtube
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MkaOGmxhgW0/0.jpg)](https://www.youtube.com/watch?v=MkaOGmxhgW0)
